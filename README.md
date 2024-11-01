@@ -15,7 +15,6 @@ F=
 5
 9
 ​×C+32
-
 Validação de Entrada: O código verifica se o valor inserido é um número válido, exibindo uma mensagem de erro, se necessário.
 Exibição do Resultado: O resultado da conversão é apresentado ao usuário em um formato claro e conciso, mostrando a temperatura convertida.
 Tecnologias Utilizadas:
